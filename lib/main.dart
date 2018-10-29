@@ -47,6 +47,9 @@ class LoginPage extends StatelessWidget {
             height: 100.0,
           ),
           SizedBox(height: 200.0,),
+          Text(
+            "Yolo life"
+          ),
           Container(
             child: Column(
               children: <Widget>[
